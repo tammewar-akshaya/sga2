@@ -1,0 +1,20 @@
+[2026-07-24 10:10:48] [WARNING] Response time exceeded threshold: 3574ms
+[2026-07-24 10:10:49] [ERROR] Database connection pool exhausted
+[2026-07-24 10:10:49] [INFO] Request processed successfully (endpoint /api/v1)
+[2026-07-24 10:10:49] [INFO] Request processed successfully (endpoint /api/v4)
+[2026-07-24 10:10:50] [INFO] Request processed successfully (endpoint /api/v3)
+[2026-07-24 10:10:50] [WARNING] Response time exceeded threshold: 1828ms
+[2026-07-24 10:10:50] [ERROR] Database connection pool exhausted
+[2026-07-24 10:10:50] [INFO] Request processed successfully (endpoint /api/v4)
+[2026-07-24 10:10:51] [INFO] Request processed successfully (endpoint /api/v3)
+[2026-07-24 10:10:51] [INFO] Request processed successfully (endpoint /api/v3)
+[2026-07-24 10:10:51] [ERROR] Database connection pool exhausted
+[2026-07-24 10:10:52] [ERROR] Database connection pool exhausted
+[2026-07-24 10:10:52] [INFO] Request processed successfully (endpoint /api/v0)
+[2026-07-24 10:10:52] [ERROR] Connection timeout from 192.168.1.154
+[2026-07-24 10:10:53] [INFO] Request processed successfully (endpoint /api/v1)
+[2026-07-24 10:10:53] [INFO] Request processed successfully (endpoint /api/v0)
+[2026-07-24 10:10:53] [WARNING] Response time exceeded threshold: 5021ms
+[2026-07-24 10:10:54] [INFO] Request processed successfully (endpoint /api/v1)
+[2026-07-24 10:10:54] [ERROR] Disk space low on /var/log
+[2026-07-24 10:10:54] [INFO] Request processed successfully (endpoint /api/v4)
